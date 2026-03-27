@@ -1,0 +1,63 @@
+# 🔹 If-Else Case Study Questions (Java)
+
+This folder contains Java programs based on **if-else conditional statements**.  
+All programs are designed as case study questions to help beginners understand decision-making logic in Java.
+
+---
+
+## 📚 Topics Covered
+
+- Basic If Statement
+- If–Else Conditions
+- Else-If Ladder
+- Nested If Statements
+- Logical Operators (&&, ||, !)
+- Real-life Case Study Problems
+
+---
+
+## 🧠 Case Study Programs Included
+
+- Leap Year Checker
+- Grade Calculator
+- Average Marks Evaluation
+- Number Positive/Negative Check
+- Even or Odd Number
+- Largest of Three Numbers
+- Pass or Fail System
+- Percentage Classification
+
+---
+
+## 🎯 Learning Objectives
+
+After completing these programs, you will be able to:
+
+- Understand conditional logic in Java
+- Apply decision-making statements
+- Solve real-world programming problems
+- Improve logical thinking skills
+
+---
+
+## ▶️ How to Run
+
+1. Compile the program
+
+javac FileName.java
+
+2. Run the program
+
+java FileName
+
+---
+
+## 🛠️ Language Used
+
+Java (Console-Based Programs)
+
+---
+
+## 📌 Note
+
+These programs are beginner-friendly and created for practice, college assignments, and exam preparation.
